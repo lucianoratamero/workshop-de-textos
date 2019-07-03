@@ -300,7 +300,7 @@ body {
   max-height: 4em; }
 
 .reveal .slide-background.bg-slide1 {
-  background: url("../../../img/logo.png"), url("../../../img/overlay_labcodes.png"), url("../../../img/bg_slide1.png");
+  background: url("../../img/logo.png"), url("../../img/overlay_labcodes.png"), url("../../img/bg_slide1.png");
   background-position: center, -10% 130%, 50%;
   background-repeat: no-repeat;
   background-size: 20%, 30%, cover; }
@@ -309,7 +309,7 @@ body {
       background-size: 50%, 70%, cover; } }
 
 .reveal .slide-background.bg-last-slide {
-  background: url("../../../img/overlay_labcodes.png"), url("../../../img/bg_green_pattern.png");
+  background: url("../../img/overlay_labcodes.png"), url("../../img/bg_green_pattern.png");
   background-position: center, left bottom, 50%;
   background-repeat: no-repeat;
   background-size: 30%, cover; }
@@ -322,11 +322,11 @@ body {
       border-width: 0.4em; } }
 
 .reveal .slide-background.bg-red-pattern {
-  background: url("../../../img/bg_red_pattern.png");
+  background: url("../../img/bg_red_pattern.png");
   background-repeat: no-repeat;
   background-size: cover; }
 
 .reveal .slide-background.bg-green-pattern {
-  background: url("../../../img/bg_green_pattern.png");
+  background: url("../../img/bg_green_pattern.png");
   background-repeat: no-repeat;
   background-size: cover; }
