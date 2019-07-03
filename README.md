@@ -1,12 +1,5 @@
-# Labslides
+### workshop de textos
 
-RevealJS markdown presentation for Labcodes
+Pra acessar os slides, só ir para [a página no github pages](https://www.ratamero.com/workshop-de-textos).
 
-
-## Instructions
-
-- Clone this repository or download it's content as `.zip`
-- Edit `index.html` and `slides.md` file with your content
-- Run `npm install`
-- Run `npm run start` from the terminal and access your slides at `http://localhost:8000`
-- Or just open `index.html` file in your browser
+Se quiser ler mais sobre o assunto, tem meu [post no medium também](https://medium.com/@lucianoratamero/ajudaluciano-como-escrever-um-post-de-blog-f0b86b3fc3ea). :)
